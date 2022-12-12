@@ -13,3 +13,5 @@ python3.10 -m venv venv
 # Update pip
 pip install --upgrade pip
 ```
+
+This project is a result of Corey Shafer's wonderful tutorial.
